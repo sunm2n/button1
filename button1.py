@@ -11,4 +11,3 @@ b2.grid(row=1, column=1)
 print("")
 
 window.mainloop()
-
